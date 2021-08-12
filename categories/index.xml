@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Mars部落格</title>
+    <title>Categories on Mars Blog</title>
     <link>https://marsyangtw.github.io/categories/</link>
-    <description>Recent content in Categories on Mars部落格</description>
+    <description>Recent content in Categories on Mars Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 07 Aug 2021 00:52:47 +0800</lastBuildDate><atom:link href="https://marsyangtw.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
