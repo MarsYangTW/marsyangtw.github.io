@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Mars Blog</title>
-    <link>https://marsyangtw.github.io/blog/</link>
-    <description>Recent content in Blogs on Mars Blog</description>
+    <title>Management on Mars Blog</title>
+    <link>https://marsyangtw.github.io/tags/management/</link>
+    <description>Recent content in Management on Mars Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 19 Aug 2021 22:26:16 +0800</lastBuildDate><atom:link href="https://marsyangtw.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Aug 2021 22:26:16 +0800</lastBuildDate><atom:link href="https://marsyangtw.github.io/tags/management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>彼得原理觀察筆記</title>
       <link>https://marsyangtw.github.io/blog/post-3/</link>
@@ -26,17 +26,6 @@
       
       <guid>https://marsyangtw.github.io/blog/post-2/</guid>
       <description>《說苑》卷八 尊賢 摘錄 趙簡子游於西河而樂之，歎曰：「安得賢士而與處焉！」舟人古乘跪而對曰：「夫珠玉無足，去此數千里而所以能來者，人好之也；今士有足而不來者，此是吾君 不好之乎！」趙簡子曰：「吾門左右客千人，朝食不足，暮收市征，暮食不足， 朝收市征，吾尚可謂不好士乎？ 」舟人古乘對曰：「鴻鵠高飛遠翔，其所恃者六翮也，背上之毛，腹下之毳 ，無尺寸之數，去之滿把，飛不能為之益卑；益之滿把，飛不能為之益高 。不知門下左右客千人者，有六翮之用乎？將盡毛毳也。」   翻譯： 趙簡子在西河邊遊玩，沉醉於其中，在玩得開心之餘感嘆的說：「要怎麼得到賢德的人士，與他們共度這良辰美景呢！」</description>
-    </item>
-    
-    <item>
-      <title>歡迎加入德國HR Line群組</title>
-      <link>https://marsyangtw.github.io/blog/post-1/</link>
-      <pubDate>Sat, 07 Aug 2021 00:52:47 +0800</pubDate>
-      
-      <guid>https://marsyangtw.github.io/blog/post-1/</guid>
-      <description>歡迎加入德國HR Line群組   目的：德國人力資源、經營管理&amp;hellip;等相關議題。
-  對象/成員：德國成立公司、辦事處或聘任當地員工，人在德國或台灣總部工作皆歡迎。
-  請email聯繫申請，提供給我您的：</description>
     </item>
     
   </channel>
